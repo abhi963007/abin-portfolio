@@ -15,9 +15,9 @@
     "@headlessui/react": "1.7.17",
     "@heroicons/react": "1.0.6",
     "@lottiefiles/dotlottie-react": "0.11.0",
-    "@mui/icons-material": "5.11.16",
-    "@mui/material": "5.11.16",
-    "@mui/styled-engine-sc": "5.11.16",
+    "@mui/icons-material": "5.14.12",
+    "@mui/material": "5.14.12",
+    "@mui/styled-engine-sc": "5.14.12",
     "@react-spring/web": "9.7.3",
     "@splinetool/react-spline": "2.2.6",
     "@splinetool/runtime": "0.9.420",
@@ -56,11 +56,13 @@
     "styled-components": "5.3.11",
     "react": "17.0.2",
     "react-dom": "17.0.2",
-    "react-event-listener": "0.6.6"
+    "react-event-listener": "0.6.6",
+    "@mui/styled-engine-sc": "5.14.12"
   },
   "overrides": {
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "@mui/styled-engine-sc": "5.14.12"
   },
   "engines": {
     "node": "18.20.6",
