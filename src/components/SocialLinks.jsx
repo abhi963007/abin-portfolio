@@ -23,7 +23,7 @@ const socialLinks = [
     displayName: "Instagram",
     subText: "@abinvarghese",
     icon: Instagram,
-    url: "https://www.instagram.com/___abin__varghese___/",
+    url: "https://www.instagram.com/abinvarghese?igsh=anpwNnVia2hpYzNm",
     color: "#E4405F",
     gradient: "from-[#833AB4] via-[#E4405F] to-[#FCAF45]"
   },

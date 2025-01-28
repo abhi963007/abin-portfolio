@@ -82,7 +82,7 @@ const TECH_STACK = ["React", "Javascript", "Node.js", "Tailwind"];
 const socialLinks = [
   { icon: Github, link: "https://github.com/Abinvarghese22" },
   { icon: Linkedin, link: "https://www.linkedin.com/in/abin-varghese-847603252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" },
-  { icon: Instagram, link: "https://www.instagram.com/___abin__varghese___/" }
+  { icon: Instagram, link: "https://www.instagram.com/abinvarghese?igsh=anpwNnVia2hpYzNm" }
 ];
 
 const Home = () => {
