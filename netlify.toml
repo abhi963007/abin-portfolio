@@ -1,7 +1,8 @@
 [build]
-  command = "npm run netlify-build"
+  command = "npm install --legacy-peer-deps && npm run build"
   publish = "dist"
 
 [build.environment]
   NODE_VERSION = "18.20.6"
-  NPM_FLAGS = "--legacy-peer-deps" 
+  NPM_FLAGS = "--legacy-peer-deps --force"
+  NETLIFY_USE_NPM = "true" 
